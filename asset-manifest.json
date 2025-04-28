@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/leadderr-webapp/static/css/main.8e29e7eb.css",
+    "main.js": "/leadderr-webapp/static/js/main.f9fc087a.js",
+    "static/js/453.244affd4.chunk.js": "/leadderr-webapp/static/js/453.244affd4.chunk.js",
+    "index.html": "/leadderr-webapp/index.html",
+    "main.8e29e7eb.css.map": "/leadderr-webapp/static/css/main.8e29e7eb.css.map",
+    "main.f9fc087a.js.map": "/leadderr-webapp/static/js/main.f9fc087a.js.map",
+    "453.244affd4.chunk.js.map": "/leadderr-webapp/static/js/453.244affd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e29e7eb.css",
+    "static/js/main.f9fc087a.js"
+  ]
+}
